@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="surface">#2D2D2D</color>
+	<color name="onSurface">#C7C7C7</color>
+
+	<color name="background">#191919</color>
+	<color name="onBackground">#C0C0C0</color>
+
+	<color name="error">#992524</color>
+	<color name="onError">#C0C0C0</color>
+
+	<color name="success">#436806</color>
+	<color name="onSuccess">#C0C0C0</color>
+
+	<color name="colorPrimary">#896A21</color>
+	<color name="colorPrimaryVariant">#BA983F</color>
+	<color name="colorOnPrimary">#000000</color>
+
+	<color name="colorSecondary">#311B17</color>
+	<color name="colorSecondaryVariant">#482B25</color>
+	<color name="colorOnSecondary">#C0C0C0</color>
+
+	<color name="colorTertiary">#1A1A1A</color>
+	<color name="colorTertiaryVariant">#272727</color>
+	<color name="colorOnTertiary">#E3E3E5</color>
+
+	<color name="offline_background">#BBBBBB</color>
+	<color name="offline_content">#2D2D2D</color>
+	<color name="plug_on_background">#3E5F05</color>
+	<color name="plug_on_content">#C0C0C0</color>
+	<color name="plug_off_background">#A22726</color>
+	<color name="plug_off_content">#C0C0C0</color>
+
+	<color name="white">#FFFFFF</color>
+	<color name="carouseItemText">#C0C0C0</color>
+
+	<color name="top_elements_background">@color/colorSecondary</color>
+</resources>

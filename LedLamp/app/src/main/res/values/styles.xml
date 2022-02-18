@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+	<!-- Base application theme. -->
+	<style name="Theme.LedLamp.Base" parent="Theme.MaterialComponents.DayNight.DarkActionBar"/>
+
+	<style name="Theme.LedLamp" parent="Theme.LedLamp.Base">
+		<!-- Primary brand color. -->
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+		<item name="colorOnPrimary">@color/colorOnPrimary</item>
+		<!-- Secondary brand color. -->
+		<item name="colorSecondary">@color/colorSecondary</item>
+		<item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+		<item name="colorOnSecondary">@color/colorOnSecondary</item>
+		<!-- Status bar color. -->
+		<item name="android:statusBarColor" tools:targetApi="l">@color/colorPrimary</item>
+		<!-- Customize your theme here. -->
+	</style>
+
+	<style name="Widget.App.Switch" parent="Widget.MaterialComponents.CompoundButton.Switch">
+		<item name="materialThemeOverlay">@style/ThemeOverlay.App.Switch</item>
+		<item name="colorOnSurface">@color/colorTertiary</item>
+		<item name="colorSecondary">@color/plug_on_background</item>
+	</style>
+
+	<style name="ThemeOverlay.App.Switch" parent="">
+		<item name="colorOnSurface">@color/colorTertiary</item>
+		<item name="colorSecondary">@color/plug_on_background</item>
+	</style>
+</resources>

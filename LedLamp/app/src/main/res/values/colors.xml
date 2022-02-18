@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="surface">#FFFFFF</color>
+	<color name="onSurface">#2D2D2D</color>
+
+	<color name="background">#FFFFFF</color>
+	<color name="onBackground">#2D2D2D</color>
+
+	<color name="error">#BB2E2C</color>
+	<color name="onError">#FFFFFF</color>
+
+	<color name="success">#4D7607</color>
+	<color name="onSuccess">#FFFFFF</color>
+
+	<color name="colorPrimary">#ECC055</color>
+	<color name="colorPrimaryVariant">#EFCA6C</color>
+	<color name="colorOnPrimary">#000000</color>
+
+	<color name="colorSecondary">#5B3A33</color>
+	<color name="colorSecondaryVariant">#68423B</color>
+	<color name="colorOnSecondary">#FFFFFF</color>
+
+	<color name="colorTertiary">#E3E3E5</color>
+	<color name="colorTertiaryVariant">#F4F4F5</color>
+	<color name="colorOnTertiary">#2D2D2D</color>
+
+	<color name="offline_background">#E3E3E5</color>
+	<color name="offline_content">#2D2D2D</color>
+	<color name="plug_on_background">#4D7607</color>
+	<color name="plug_on_content">#FFFFFF</color>
+	<color name="plug_off_background">#BB2E2C</color>
+	<color name="plug_off_content">#FFFFFF</color>
+
+	<color name="white">#FFFFFF</color>
+	<color name="carouseItemText">#FFFFFF</color>
+
+	<color name="top_elements_background">@color/colorSecondary</color>
+</resources>
